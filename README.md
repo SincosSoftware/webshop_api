@@ -1,4 +1,4 @@
-webshop_api
+Webshop API
 ===========
 
-Documentation and examples for Sincos Softwares webshop api.
+Documentation and examples for webshop api. Documentation can be found in the wiki.
